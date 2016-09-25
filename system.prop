@@ -1,0 +1,5 @@
+# Latest hardware revision supported
+ro.product.model.platform=1
+
+# Camera
+camera2.portability.force_api=1
